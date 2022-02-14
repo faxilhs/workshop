@@ -1,0 +1,12 @@
+﻿  Main.cpp
+C:\Users\User\OneDrive - Universiti Teknikal Malaysia Melaka\Y2S1\BITU 2913 Workshop 1\workshop1\workshop1\Main.cpp(136,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\OneDrive - Universiti Teknikal Malaysia Melaka\Y2S1\BITU 2913 Workshop 1\workshop1\workshop1\Main.cpp(302,7): warning C4101: 'qstate1': unreferenced local variable
+C:\Users\User\OneDrive - Universiti Teknikal Malaysia Melaka\Y2S1\BITU 2913 Workshop 1\workshop1\workshop1\Main.cpp(1484,45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\OneDrive - Universiti Teknikal Malaysia Melaka\Y2S1\BITU 2913 Workshop 1\workshop1\workshop1\Main.cpp(1567,3): warning C4102: 'id': unreferenced label
+C:\Users\User\OneDrive - Universiti Teknikal Malaysia Melaka\Y2S1\BITU 2913 Workshop 1\workshop1\workshop1\Main.cpp(1942,6): warning C4102: 'year': unreferenced label
+  Generating code
+  1 of 221 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    8 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  workshop1.vcxproj -> C:\Users\User\OneDrive - Universiti Teknikal Malaysia Melaka\Y2S1\BITU 2913 Workshop 1\workshop1\x64\Release\workshop1.exe
